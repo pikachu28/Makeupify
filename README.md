@@ -2,29 +2,22 @@
 
 ### Problem statement and Solution
 
-One of the major issue in Online Beauty Products Shopping is finding the right fit for you.
-
-We bring the concept of pick what you feel good in online shopping using Makeupify.
-
-Using PSGan we perform Makeup Transfer from Reference image to Input Image.
+One of the major issue in Online Beauty Products Shopping is finding the right fit for you. We bring the concept of pick what you feel good in online shopping using Makeupify. Using PSGan we perform Makeup Transfer from Reference image to Input Image.
 
 ### Technology Stack
 
-  Programming Language: Python
-
-  Tools:  PyTorch, Numpy, OpenCV
-
-  Deep Learning: Generative Adversarial Network
-
-  Algorithm: Pose and expression robust Spatial-aware GAN (PSGAN)
+   Programming Language: Python
+   
+   Tools:  PyTorch, Numpy, OpenCV
+   
+   Deep Learning: Generative Adversarial Network
+   
+   Algorithm: Pose and expression robust Spatial-aware GAN (PSGAN)
   
 ### Flow
 
 1. Align the Makeup Reference Image to capture the features of the face precisely.
-
-2. Pass  Aligned Reference and Input Image to PSGAN Algorithm.
-(PSGAN aligns the Input Image)
-
+2. Pass  Aligned Reference and Input Image to PSGAN Algorithm. (PSGAN aligns the Input Image)
 3. Get the Output as Makeup Transferred from Reference to Input image
 
 ### How to run
