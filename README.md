@@ -37,6 +37,13 @@ Run:
 
 ```
 python test.py
+
+```
+OR
+
+```
+python test.py --reference_dir "location of folder which contains Reference makeup images"
+
 ```
 
 Makeup transferred Images will be stored in "results" folder
