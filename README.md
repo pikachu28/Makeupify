@@ -46,6 +46,11 @@ Makeup transferred Images will be stored in "results" folder
 To see the results on more input images [refer](https://docs.google.com/document/d/1E5fstgg2GfWi2atmc-uyFF5kj2vXV-6RDne-bcd5S3s/edit?usp=sharing)
 
 
+### Presentation 
+
+[refer](https://drive.google.com/file/d/1e93iILurdg9Qs85dJghRrq6g2gBhhhoU/view?usp=sharing)
+
+
 
 
 
